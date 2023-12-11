@@ -1,0 +1,16 @@
+## Transfer Event
+### Variant 1 (single transaction)
+
+```
+block_hash, transaction_hash, log_index, token_address, from_address, to_address, value
+block#1, transaction#1, log#1, token1, operator, receiver, 10e8
+block#1, transaction#1, log#2, token2, receiver, operator, 1
+block#1, transaction#1, log#3, token1, operator, receiver, 10e8
+block#1, transaction#1, log#4, token2, receiver, operator, 1
+block#1, transaction#1, log#5, token1, operator, receiver, 10e8
+block#1, transaction#1, log#6, token2, receiver, operator, 1
+```
+
+### Variant 2 (separate transaction, same block)
+
+### Variant 3 (separate transaction, separate block)
