@@ -2,7 +2,7 @@
 POMABuster is an automated engine to detect Price Oracle Manipualtion Attack (POMA) to blockchain oracles.
 For more details about POMABuster, please refer to the paper [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://sp2024.ieee-security.org/) (link to be announce).
 
-If you use SolidiFI, please cite this paper
+If you use POMABuster, please cite this paper
 ```
 TBA
 ```
